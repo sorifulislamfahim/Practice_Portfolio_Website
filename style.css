@@ -1,0 +1,99 @@
+.first-part {
+    display: flex;
+}
+
+body {
+    margin: 0;
+}
+
+section {
+    margin-bottom: 50px
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.all-text {
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.orange {
+    color: orange;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, orangered);
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+.secend-part {
+    display: flex;
+    background-image: url(images/bg-2.png);
+}
+
+.header-third {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 30%;
+}
+
+.third-part {
+    display: flex;
+    margin: 10px 40px;
+}
+
+.all-part {
+    padding: 15px 20px;
+    margin: 5px 20px;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 20px;
+    height: 500px;
+}
+
+.all-part img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.last-part {
+    display: flex;
+    margin: 10px 30px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+
+.extra {
+    margin: 1px 150px;
+    padding: 0;
+    font-weight: 800;
+}
+
+p {
+    font-size: 20px;
+    color: darkgrey;
+}
+
+footer {
+    text-align: center;
+    color: rgb(145, 128, 128);
+    background-color: black;
+    height: 200px;
+    padding-top: 10px;
+}
+
+footer h6 {
+    text-align: right;
+}
